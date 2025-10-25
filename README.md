@@ -35,7 +35,7 @@ Being able to tame this kind of data is a core skill for any data-driven role. T
 ---
 
 ## 🔬 My Journey: Taming the Data
-
+! [Heatmap of the features] (heatmap.png)
 Here is the step-by-step process I followed to build the model.
 
 ### 1. Data Cleaning & Exploration
@@ -87,7 +87,7 @@ The tuning was a success! `GridSearchCV` found the best parameters to maximize a
 
 The image below shows exactly where my final model succeeded and failed on the validation data. It correctly predicted 91 deceased passengers (True Negatives) and 54 survivors (True Positives). Not bad at all!
 
-![My Model's Confusion Matrix](https://i.ibb.co/8429xnxj/Screenshot-2025-10-25-at-10-33-06-PM.png)
+![My Model's Confusion Matrix](confusion.png)
 
 ---
 
