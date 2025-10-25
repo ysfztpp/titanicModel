@@ -1,7 +1,5 @@
 # Titanic Survival Prediction 🚢
 
-Welcome to my first complete, end-to-end machine learning project!
-
 This is a classic "rite of passage" for anyone getting into data science, and I've dived head-first into it. My goal wasn't just to get a good score, but to build a **clean, professional, and repeatable workflow** from start to finish. This project demonstrates how to take a raw, messy dataset and turn it into a high-performing, optimized predictive model.
 
 This project showcases my skills in:
@@ -35,7 +33,8 @@ Being able to tame this kind of data is a core skill for any data-driven role. T
 ---
 
 ## 🔬 My Journey: Taming the Data
-! [Heatmap of the features] (heatmap.png)
+![Heatmap of the features](heatmap.png)
+
 Here is the step-by-step process I followed to build the model.
 
 ### 1. Data Cleaning & Exploration
